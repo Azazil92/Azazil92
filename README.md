@@ -2,6 +2,6 @@
 #include <stdlib.h>
 int main ()
 {
-    printf ("My name is qaim\n");
+    printf ("My name is Syed Muhammad Qaim Abbas\n");
     return 0;
 }
